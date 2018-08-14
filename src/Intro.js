@@ -1,4 +1,5 @@
 import React from "react";
+import RayChintalapatiResume from './RayChintalapatiResume.jpg'
 
 class Intro extends React.Component {
   render() {
@@ -9,7 +10,7 @@ class Intro extends React.Component {
             <div class="col-md-6 about-img-wrap">
               <div class="about-img wow slideInRight">
                 <img
-                  src="https://lh3.googleusercontent.com/mtrE2K97u-5x5I28dqcHF-J8OKvU_NVPe5983QL6Bpg-7dMiMT9GG1LfhZ7w-4DH8wKmifTUEZFBbo9o5uUlxOgO3ORy2CuqoJWu4qk0yvwpRxRQoTLA2tDQEBAdsbeosFGSApmaSHGW81zKrbbvckoCloqKMlPJv2BDzToayWrfJeru7uJ7DXKS31EqiPDjEP7WIo35l93z6BM0sorD7CF6rMnf7CEKUQPqQVl_nkHjjjkqdk_Y6v2DmFcsF-NJvBGJYKLJzf4YUXFbfmb8bLABscUqcL_K6hdLmal1dXPvdQH9j3N_KPRAgffSsXOcusSfbt24N30LEEZhwqXyP43sZ7HSNNCxtdSB2Ewal2Q3TuJnh-2YfSpn3xSS4dcp4fujAZcYlAR9jQXV9IGjyVZ9paj2Lhz_L0SLwMmvgQOM-aIaBqX4CTsB54RIzzmwYtu1p-B57KpSStjkBmfTGF7UX9lfUSQZkzdaNq2BIxdC7oYi_HorK_F6JMcURSneweh9_NqSho1H1eiqpgXCU7ZHzeg_kd7ekWR9oUBy4y_dsoDeqZBoScH0WcYPy7GBEP6b6_uYtUVFqicLQHovoxAmiZ11AdXaWJTsO-kG=w2048-h1150-no"
+                  src={RayChintalapatiResume}
                   alt=""
                   class="img-responsive"
                 />
