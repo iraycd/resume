@@ -40,10 +40,7 @@ class Header extends Component {
                       <a href="#experience">Experience</a>
                     </li>
                     <li>
-                      <a href="#education">Education</a>
-                    </li>
-                    <li>
-                      <a href="#feedback">Feedback</a>
+                      <a href="#awards">Awards</a>
                     </li>
                   </ul>
                 </div>
@@ -77,10 +74,7 @@ class Header extends Component {
                 <a href="#experience">Experience</a>
               </li>
               <li>
-                <a href="#education">Education</a>
-              </li>
-              <li>
-                <a href="#feedback">Feedback</a>
+                <a href="#awards">Awards</a>
               </li>
             </ul>
           </div>

@@ -110,7 +110,7 @@ class Intro extends React.Component {
                   <a
                     data-toggle="modal"
                     data-target="#contact-modal"
-                    href="#"
+                    href="mailto:Ray Ch<i@iraycd.com>"
                     class="site-btn"
                   >
                     Contact me

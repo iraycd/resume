@@ -63,7 +63,7 @@ class Experience extends Component {
                     <p class="about-info">
                       Envision Enterprise Solutions Private Limited
                     </p>
-                    <p>December, 2017 — Present</p>
+                    <p>May, 2018 — Present</p>
                     <div class="opacity-box">
                       <p>
                         {" "}
@@ -185,7 +185,7 @@ class Experience extends Component {
                   <div class="about-row">
                     <h4 class="about-tittle">Founder</h4>
                     <p class="about-info">Jhink Solutions Pvt. Ltd</p>
-                    <p>October, 2015 - November, 2017</p>
+                    <p>October, 2015 - May, 2018</p>
                     <div class="opacity-box">
                       <p>
                         <b>Project:</b> Zmed Mobile App and Web App It is a
