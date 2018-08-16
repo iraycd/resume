@@ -55,25 +55,14 @@ class Skills extends Component {
             <div class="col-md-8">
               <div class="row">
                 <div class="col-md-6 wow zoomIn">
+                  <hr />
                   <div class="advantages-box">
                     <h4>Leadership</h4>
                     <div class="opacity-box">
                       <p>
                         Lean &amp; Agile, Agile development, Sprint Management,
                         Kandan Boards, Startup Mindset, Empathetic, Team
-                        Oriented, Always On
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6 wow zoomIn">
-                  <div class="advantages-box">
-                    <h4>Web Development</h4>
-                    <div class="opacity-box">
-                      <p>
-                        Javascript, Node.js, Express.js, TypeScript, Koa,
-                        Python, Django, Flask, Go, MongoDB, Redis, PostgreSQL,
-                        MySQL.{" "}
+                        Oriented, Always On, Collaborative, Focus on delivering great product.
                       </p>
                     </div>
                   </div>
@@ -81,11 +70,13 @@ class Skills extends Component {
                 <div class="col-md-6 wow zoomIn">
                   <hr />
                   <div class="advantages-box">
-                    <h4>UI\UX Design</h4>
+                    <h4>Architecting</h4>
                     <div class="opacity-box">
                       <p>
-                        Sketching, Sketch, Mindnode, Prototyping, Wireframing,
-                        User Research, Usability Testing.
+                        Writing Style Guides, Mindmapping, 
+                        Ability to drive end-to-end feature design, 
+                        Architecture across teams,
+                        Designs solutions, creates prototypes, writes test scripts, and deploys solutions.
                       </p>
                     </div>
                   </div>
@@ -94,12 +85,41 @@ class Skills extends Component {
                 <div class="col-md-6 wow zoomIn">
                   <hr />
                   <div class="advantages-box">
-                    <h4>Frontend Development</h4>
+                    <h4>Managing</h4>
                     <div class="opacity-box">
                       <p>
-                        HTML, CSS, LESS, SASS, Bootstrap, React.js, Flux with
-                        Redux, CSS with JS, JEST, React Native, Phonegap /
-                        Cordova, Ionic, Foundation, Angular.js.
+                        Ability to work with a variety of stakeholders
+                        Developers, UI designers, product managers, technical writers, marketers, technical support personnel, and enterprise customers to understand &amp; solve problems.
+                      </p>
+                      <p>
+                        Checking, Validating and Cooperating to deliver quality and high performance application 
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Web Development - 8 Years+</h4>
+                    <div class="opacity-box">
+                      <p>
+                        Javascript, Node.js (Express.js/Koa), TypeScript,
+                        Python(Django/Flask), Java(Spring), PostgreSQL, MongoDB, Redis,
+                        MySQL.{" "}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Frontend Development - 8 Years+</h4>
+                    <div class="opacity-box">
+                      <p>
+                        HTML, CSS, LESS, SASS, Bootstrap, React.js, Architecting with Flux(Redux), 
+                        CSS with JS, JEST, React Native, Phonegap /
+                        Cordova, Ionic, Foundation, Angular.js, MVVM.
                       </p>
                     </div>
                   </div>
@@ -112,7 +132,40 @@ class Skills extends Component {
                       <p>
                         Desktop Application, Mac, Windows, Linux, Electron,
                         Virtualization, Docker and Kubernetes, CI and CD,
+                        Automation Scripting with Python, 
                         Gitlab-CI, Travis and Jenkins
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Testing</h4>
+                    <div class="opacity-box">
+                      <p>
+                        End to End, 
+                        Unit Testing, 
+                        Integration Testing,
+                        Snapshot Testing,
+                        Mocking, 
+                        DOM Testing,
+                        Redux Testing,
+                        Performance Testing, 
+                        Load Testing,
+                        90%+ Coverage(Prioritize good test over coverage)
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>UI\UX Design</h4>
+                    <div class="opacity-box">
+                      <p>
+                        Sketching, Sketch, Mindnode, Prototyping, Wireframing,
+                        User Research, Usability Testing.
                       </p>
                     </div>
                   </div>

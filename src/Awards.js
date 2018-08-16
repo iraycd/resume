@@ -4,7 +4,7 @@ import AwardJpg from './Award.jpg'
 class Skills extends Component {
   render() {
     return (
-      <section id="skills" class="section">
+      <section id="awards" class="section">
         <div class="container">
           <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
