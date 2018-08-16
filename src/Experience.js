@@ -337,7 +337,7 @@ class Experience extends Component {
                   <div class="about-row">
                     <h4 class="about-tittle">CTO &amp; Co-Founder</h4>
                     <p class="about-info">Ninjaas Labs Pvt. Ltd, Bangalore</p>
-                    <p>Dec, 2009 — Jan, 2013</p>
+                    <p>Aug, 2013 — Sep, 2015</p>
                     <div class="opacity-box">
                       <p>
                         <b>Project:</b> Jumkey, emerging as a leading player in
@@ -399,6 +399,30 @@ class Experience extends Component {
                           improvement.{" "}
                         </li>
                       </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr/>
+              <div class="row wow zoomIn">
+                <div class="col-md-12">
+                  <div class="about-row">
+                    <h4 class="about-tittle">Web Developer</h4>
+                    <p class="about-info">1midea</p>
+                    <p>Dec, 2008 — Aug, 2013</p>
+                    <div class="opacity-box">
+                      <p>
+                        Training the team on jQuery and making people Adapt in for the first time in India.
+                      </p>
+                      <p>
+                        First hand-ons experience with LAMP - Linux, Apache, MySQL and PHP.
+                      </p>
+                      <p>
+                        Worked on Joomla 1.5 and helped in the prototype building of a social media website using Joomla CMS as a platform.
+                      </p>
+                      <p>
+                        Also, built various component Joomla 1.7 components using PHP.
+                      </p>
                     </div>
                   </div>
                 </div>
