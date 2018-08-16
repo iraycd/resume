@@ -5,7 +5,7 @@ class Skills extends Component {
       <section id="skills" class="section">
         <div class="container">
           <div class="row wave-bg">
-            <div class="zigzag wow slideInLeft">
+            <div class="zigzag">
               <svg
                 version="1.1"
                 x="0px"
@@ -39,7 +39,7 @@ class Skills extends Component {
                 </g>
               </svg>
             </div>
-            <div class="col-md-4 wow slideInLeft">
+            <div class="col-md-3">
               <div class="section-sidebar">
                 <h2>
                   <span class="point">Skills</span>
@@ -52,9 +52,9 @@ class Skills extends Component {
                 </div>
               </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-9">
               <div class="row">
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Leadership</h4>
@@ -67,7 +67,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Architecting</h4>
@@ -82,7 +82,7 @@ class Skills extends Component {
                   </div>
                 </div>
 
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-12">
                   <hr />
                   <div class="advantages-box">
                     <h4>Managing</h4>
@@ -97,7 +97,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Web Development - 8 Years+</h4>
@@ -110,8 +110,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Frontend Development - 8 Years+</h4>
@@ -124,7 +123,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Technologies</h4>
@@ -138,7 +137,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>Testing</h4>
@@ -158,7 +157,7 @@ class Skills extends Component {
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6 wow zoomIn">
+                <div class="col-md-6">
                   <hr />
                   <div class="advantages-box">
                     <h4>UI\UX Design</h4>

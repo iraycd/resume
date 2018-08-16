@@ -40,7 +40,7 @@ class Experience extends Component {
                 </g>
               </svg>
             </div>
-            <div class="col-md-4 wow slideInLeft">
+            <div class="col-md-3 wow slideInLeft">
               <div class="section-sidebar">
                 <h2>
                   <span class="point">Experience</span>
@@ -55,7 +55,7 @@ class Experience extends Component {
                 </div>
               </div>
             </div>
-            <div class="col-md-8 right-box">
+            <div class="col-md-9 right-box">
               <div class="row wow zoomIn">
                 <div class="col-md-12">
                   <div class="about-row">

@@ -108,6 +108,7 @@ class Intro extends React.Component {
                 </div>
                 <div class="about-btns">
                   <a
+                    id="emailMe"
                     data-toggle="modal"
                     data-target="#contact-modal"
                     href="mailto:Ray Ch<i@iraycd.com>"
@@ -115,7 +116,7 @@ class Intro extends React.Component {
                   >
                     Contact me
                   </a>
-                  <a href="download/example.pdf" class="site-btn gray-btn">
+                  <a href="download/example.pdf" id="downloadCV" class="site-btn gray-btn">
                     Download cv
                   </a>
                 </div>

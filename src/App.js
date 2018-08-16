@@ -4,7 +4,6 @@ import Intro from './Intro';
 import Skills from './Skills';
 import Experience from './Experience';
 import Awards from './Awards';
-
 class App extends Component {
   render() {
     return (    

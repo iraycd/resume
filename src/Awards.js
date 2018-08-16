@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import AwardJpg from './Award.jpg'
 
-class Skills extends Component {
+class Awards extends Component {
   render() {
     return (
       <section id="awards" class="section">
@@ -41,10 +41,10 @@ class Skills extends Component {
                 </g>
               </svg>
             </div>
-            <div class="col-md-4 wow slideInLeft">
+            <div class="col-md-3 wow slideInLeft">
               <div class="section-sidebar">
                 <h2>
-                  <span class="point">Awards &amp; Stars</span>
+                  <span class="point">Awards &amp; Open Source </span>
                 </h2>
                 <div class="opacity-box">
                   <p>
@@ -54,23 +54,104 @@ class Skills extends Component {
                 </div>
               </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-9">
               <div class="row">
                 <div class="col-md-12 wow zoomIn">
+                  <hr />
                   <div class="advantages-box">
                     <h4>Emerging Mobile Internet Company - 2015</h4>
                     <div class="opacity-box">
                       <img src={AwardJpg} />
                     </div>
                   </div>
-                <hr />
                 </div>
-                <div class="col-md-12 wow zoomIn">
+              </div>
+              <div class="row">
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
                   <div class="advantages-box">
                     <h4>React/Redux Style Guide</h4>
                     <div class="opacity-box">
                         <a class="github-button" href="https://github.com/iraycd/React-Redux-Styleguide" data-size="large" data-show-count="true" aria-label="Star iraycd/React-Redux-Styleguide on GitHub">Star</a>
-                        <p>Written a working set of guidelines for developing React applications. Best practices, patterns and technology change over time, so this a living set of style guides for React Redux.</p>
+                        <p>Written a working set of guidelines(Best practices, patterns and technology) for developing React applications.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Brickworks - 2014 Deprecated</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/iraycd/brickwork" data-size="large" data-show-count="true" aria-label="Star iraycd/brickwork on GitHub">Star</a>
+                        <p>BrickWork is a reponsive jQuery plugin to create Dynamic layouts.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Django Phone Login</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/wejhink/django-phone-login" data-size="large" data-show-count="true" aria-label="Star wejhink/django-phone-login on GitHub">Star</a>
+                        <p>Phone number login with no additional passwords to remember.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Node gRPC Boilerplate</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/iraycd/node-grpc-boilerplate" data-size="large" data-show-count="true" aria-label="Star iraycd/node-grpc-boilerplate on GitHub">Star</a>
+                        <p>Rich content editing entirely re-imagined for the web</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>django-video-encoding</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/escaped/django-video-encoding" data-size="large" data-show-count="true" aria-label="Star escaped/django-video-encoding on GitHub">Star</a>
+                        <p>django-video-encoding helps to convert your videos into different formats and resolutions.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Django Video Encoding</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/escaped/django-video-encoding" data-size="large" data-show-count="true" aria-label="Star escaped/django-video-encoding on GitHub">Star</a>
+                        <p>django-video-encoding helps to convert your videos into different formats and resolutions.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>Django Videokit</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/pstreck/django-videokit" data-size="large" data-show-count="true" aria-label="Star pstreck/django-videokit on GitHub">Star</a>
+                        <p>Video storage and processing for Django</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 wow zoomIn">
+                  <hr />
+                  <div class="advantages-box">
+                    <h4>sir-trevor-js - Early Contributor</h4>
+                    <div class="opacity-box">
+                        <a class="github-button" href="https://github.com/madebymany/sir-trevor-js" data-size="large" data-show-count="true" aria-label="Star madebymany/sir-trevor-js on GitHub">Star</a>
+                        <p>Rich content editing entirely re-imagined for the web</p>
                     </div>
                   </div>
                 </div>
@@ -83,4 +164,4 @@ class Skills extends Component {
   }
 }
 
-export default Skills;
+export default Awards;

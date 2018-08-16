@@ -18,7 +18,7 @@ class Header extends Component {
   render() {
     const activeMenu = this.state.showMenu ? 'active' : ''
     return (
-      <div>
+      <div id="header">
         <header className="header">
           <div className="container">
             <div className="row">

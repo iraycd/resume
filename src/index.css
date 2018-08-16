@@ -3,3 +3,19 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+#skills, #experience {
+  page-break-after: always
+}
+
+@media print
+{    
+
+    #header, #downloadCV, #emailMe
+    {
+        display: none !important;
+    }
+    a[href]:after {
+      content: none !important;
+    }
+}
