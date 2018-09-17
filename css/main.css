@@ -706,6 +706,12 @@ h4 {
   font-weight: 700;
   font-family: "Lato", sans-serif; }
 
+h5 {
+  font-size: 15px;
+  line-height: 1.55;
+  font-weight: 700;
+  font-family: "Lato", sans-serif; }
+
 .site-btn {
   font-size: 12px;
   line-height: 1.66;
