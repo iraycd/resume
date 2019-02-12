@@ -59,11 +59,61 @@ class Experience extends Component {
               <div class="row wow zoomIn">
                 <div class="col-md-12">
                   <div class="about-row">
-                    <h4 class="about-tittle">Chief Manager - Technical</h4>
+                    <h4 class="about-tittle">Chief Product Manager - Rubus</h4>
                     <p class="about-info">
                       Envision Enterprise Solutions Private Limited
                     </p>
-                    <p>May, 2018 — Present</p>
+                    <p>Jan, 2019 — Present</p>
+                    <div class="opacity-box">
+                      <p>
+                        {" "}
+                        <b>Project:</b> Rubus is a powerful, enterprise IoT platform.
+                      </p>
+                      <p>
+                        <b>Specialization:</b> Making team committed to actively build,
+                        monitor, and maintain IoT cloud platform which provides foundation
+                        for a variety of enterprise IoT solutions.
+                      </p>
+                    </div>
+                    <div class="roles">
+                      <h4>Responsibilities:</h4>
+                      <ul>
+                        <li>
+                          Strategic direction for the product
+                        </li>
+                        <li>
+                          Providing easy to use application enablement platform to balance 
+                          the developer’s need for experimentation with the enterprise’s 
+                          need for scalability.
+                        </li>
+                        <li>
+                          Features for the seamless integration of one to millions of connected 
+                          devices to provide enterprises with the ability to respond to 
+                          IoT data insights.
+                        </li>
+                        <li>
+                          Consider usability, flexibility, reliability, and security to promote 
+                          ease of use for our customers, as well as peace of mind.
+                        </li>
+                        <li>
+                          Coordinate and interact with team to define objectives, develop approach,
+                          create detailed schedules, provide status updates and prepare
+                          deliverables for projects
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr />
+              <div class="row wow zoomIn">
+                <div class="col-md-12">
+                  <div class="about-row">
+                    <h4 class="about-tittle">Sr. Technical Manager - iPortman</h4>
+                    <p class="about-info">
+                      Envision Enterprise Solutions Private Limited
+                    </p>
+                    <p>May, 2018 — Dec, 2018</p>
                     <div class="opacity-box">
                       <p>
                         {" "}
@@ -403,7 +453,7 @@ class Experience extends Component {
                   </div>
                 </div>
               </div>
-              <hr/>
+              <hr />
               <div class="row wow zoomIn">
                 <div class="col-md-12">
                   <div class="about-row">

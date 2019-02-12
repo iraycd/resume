@@ -116,7 +116,7 @@ class Intro extends React.Component {
                   >
                     Contact me
                   </a>
-                  <a href="download/example.pdf" id="downloadCV" class="site-btn gray-btn">
+                  <a href="Resume.pdf" id="downloadCV" target='_blank' class="site-btn gray-btn">
                     Download cv
                   </a>
                 </div>

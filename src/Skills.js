@@ -61,7 +61,7 @@ class Skills extends Component {
                     <div class="opacity-box">
                       <p>
                         Lean &amp; Agile, Agile development, Sprint Management,
-                        Kandan Boards, Startup Mindset, Empathetic, Team
+                        Kanban Boards, Startup Mindset, Empathetic, Team
                         Oriented, Always On, Collaborative, Focus on delivering great product.
                       </p>
                     </div>
