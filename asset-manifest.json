@@ -1,8 +1,15 @@
 {
-  "main.css": "static/css/main.a0388626.css",
-  "main.css.map": "static/css/main.a0388626.css.map",
-  "main.js": "static/js/main.1f32a5db.js",
-  "main.js.map": "static/js/main.1f32a5db.js.map",
-  "static/media/Award.jpg": "static/media/Award.71aca9b7.jpg",
-  "static/media/RayChintalapatiResume.jpg": "static/media/RayChintalapatiResume.1227c6a2.jpg"
+  "main.css": "/resume/static/css/main.1dd2d1fe.chunk.css",
+  "main.js": "/resume/static/js/main.07ad02fb.chunk.js",
+  "main.js.map": "/resume/static/js/main.07ad02fb.chunk.js.map",
+  "runtime~main.js": "/resume/static/js/runtime~main.fd78f13f.js",
+  "runtime~main.js.map": "/resume/static/js/runtime~main.fd78f13f.js.map",
+  "static/js/2.e6f01a83.chunk.js": "/resume/static/js/2.e6f01a83.chunk.js",
+  "static/js/2.e6f01a83.chunk.js.map": "/resume/static/js/2.e6f01a83.chunk.js.map",
+  "index.html": "/resume/index.html",
+  "precache-manifest.8f10055a2cef1afd037d60dc48376a98.js": "/resume/precache-manifest.8f10055a2cef1afd037d60dc48376a98.js",
+  "service-worker.js": "/resume/service-worker.js",
+  "static/css/main.1dd2d1fe.chunk.css.map": "/resume/static/css/main.1dd2d1fe.chunk.css.map",
+  "static/media/Award.jpg": "/resume/static/media/Award.71aca9b7.jpg",
+  "static/media/RayChintalapatiResume.jpg": "/resume/static/media/RayChintalapatiResume.1227c6a2.jpg"
 }
